@@ -1,2 +1,2 @@
-# nathaniel_portfolio
+# professional_portfolio
 Portfolio for Nathaniel Guel
